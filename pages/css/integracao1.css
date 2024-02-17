@@ -1,0 +1,16 @@
+* {
+  margin: 0 auto;
+}
+
+.vermelho {
+  color: #f30;
+}
+
+.azul {
+  color: #03a;
+}
+
+.branco {
+  background-color: #444;
+  color: #fff;
+}
