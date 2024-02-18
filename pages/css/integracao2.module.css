@@ -1,3 +1,11 @@
+#integracao2 {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
 .vermelho {
   color: #f30;
 }
@@ -9,4 +17,8 @@
 .branco {
   background-color: #444;
   color: #fff;
+}
+
+.teste {
+  background-color: #333;
 }
