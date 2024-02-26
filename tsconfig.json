@@ -21,6 +21,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "pages/basicos/jsx2.jsx", "pages/basicos/jsx1.jsx", "pages/basicos/primeiro.jsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "pages/basicos/jsx2.jsx", "pages/basicos/jsx1.jsx", "pages/basicos/primeiro.jsx", "pages/basicos/botao.jsx"],
   "exclude": ["node_modules"]
 }
